@@ -4,7 +4,11 @@ Hi 👋 My name is Fabián
 Software Engineer and Researcher
 --------------------------------
 
-\[working on this\]
+I am a Software Engineer and Researcher recently graduated with Highest Honors from Universidad de Tarapacá. My expertise lies in designing Backend Architectures, deploying Cloud Infrastructure, and implementing DevOps pipelines.
+
+I enjoy doing academic research through experimentation using my own software solutions. My work ranges from developing low-latency microservices with GraalVM and Spring Boot, to creating interactive computational geometry simulations. I am highly motivated by creating software that is efficient and "runs on its own" once deployed.
+
+Currently, I'm expanding my horizons by diving into Cybersecurity, Data Analytics, and AI integrations using LangChain and Spring AI.
 
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [fhenry.site](http://fhenry.site)
@@ -20,9 +24,3 @@ Software Engineer and Researcher
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Fhv5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/fabian-henry-vilaxa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Fhv5"><img src="https://github-readme-stats.vercel.app/api?username=Fhv5&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fhv5's GitHub stats" /></a>
