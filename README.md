@@ -1,9 +1,6 @@
 Hi 👋 My name is Fabián
 =======================
 
-Software Engineer and Researcher
---------------------------------
-
 I am a Software Engineer and Researcher recently graduated with Highest Honors from Universidad de Tarapacá. My expertise lies in designing Backend Architectures, deploying Cloud Infrastructure, and implementing DevOps pipelines.
 
 I enjoy doing academic research through experimentation using my own software solutions. My work ranges from developing low-latency microservices with GraalVM and Spring Boot, to creating interactive computational geometry simulations. I am highly motivated by creating software that is efficient and "runs on its own" once deployed.
